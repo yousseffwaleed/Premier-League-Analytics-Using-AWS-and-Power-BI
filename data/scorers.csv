@@ -1,0 +1,21 @@
+rank,player_name,nationality,position,date_of_birth,team,team_tla,played_matches,goals,assists,penalties,non_pen_goals
+1,Mohamed Salah,Egypt,Right Winger,1992-06-15,Liverpool FC,LIV,38,29,17,9.0,20
+2,Alexander Isak,Sweden,Centre-Forward,1999-09-21,Newcastle United FC,NEW,34,23,6,4.0,19
+3,Erling Haaland,Norway,Centre-Forward,2000-07-21,Manchester City FC,MCI,32,22,3,3.0,19
+4,Chris Wood,New Zealand,Centre-Forward,1991-12-07,Nottingham Forest FC,NOT,36,20,3,3.0,17
+5,Bryan Mbeumo,Cameroon,Right Winger,1999-08-07,Brentford FC,BRE,38,20,8,5.0,15
+6,Yoane Wissa,DR Congo,Centre-Forward,1996-09-03,Brentford FC,BRE,35,18,4,,18
+7,Ollie Watkins,England,Centre-Forward,1995-12-30,Aston Villa FC,AVL,38,16,7,2.0,14
+8,Matheus Cunha,Brazil,Centre-Forward,1999-05-27,Wolverhampton Wanderers FC,WOL,33,15,7,,15
+9,Cole Palmer,England,Attacking Midfield,2002-05-06,Chelsea FC,CHE,37,15,8,4.0,11
+10,Jørgen Strand Larsen,Norway,Offence,2000-02-06,Wolverhampton Wanderers FC,WOL,35,14,4,,14
+11,Jean-Philippe Mateta,France,Centre-Forward,1997-06-28,Crystal Palace FC,CRY,37,14,2,2.0,12
+12,Jarrod Bowen,England,Right Winger,1996-01-01,West Ham United FC,WHU,34,13,10,1.0,12
+13,Luis Díaz,Colombia,Left Winger,1997-01-13,Liverpool FC,LIV,38,13,6,,13
+14,Liam Delap,England,Centre-Forward,2003-02-08,Ipswich Town FC,IPS,37,12,2,2.0,10
+15,Raúl Jiménez,Mexico,Centre-Forward,1991-05-05,Fulham FC,FUL,38,12,3,3.0,9
+16,Justin Kluivert,Netherlands,Left Winger,1999-05-05,AFC Bournemouth,BOU,34,12,6,6.0,6
+17,Antoine Semenyo,Ghana,Right Winger,2000-01-07,AFC Bournemouth,BOU,37,11,4,,11
+18,Brennan Johnson,Wales,Right Winger,2001-05-23,Tottenham Hotspur FC,TOT,35,11,4,,11
+19,Kevin Schade,Germany,Left Winger,2001-11-27,Brentford FC,BRE,38,11,2,,11
+20,Kaoru Mitoma,Japan,Left Winger,1997-05-20,Brighton & Hove Albion FC,BHA,36,10,5,,10
